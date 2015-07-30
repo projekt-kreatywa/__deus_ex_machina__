@@ -22,7 +22,7 @@ in any case and despite the seductive graphic above which was uncerermoniously s
 
 [![just kidding pic](https://farm1.staticflickr.com/296/19962424498_4f4f4b6bc7_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
-[![](https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/10561814_798403623524159_1606611110860102483_n.jpg?oh=018da597bacd59ada1192df1a7193fbb&oe=56151ABD)](https://www.facebook.com/2muchcoffeee/photos/pb.614364481928075.-2207520000.1437690978./798403623524159/?type=3&src=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fhphotos-xfp1%2Ft31.0-8%2F10499581_798403623524159_1606611110860102483_o.jpg&smallsrc=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fhphotos-xat1%2Fv%2Ft1.0-9%2F10561814_798403623524159_1606611110860102483_n.jpg%3Foh%3D018da597bacd59ada1192df1a7193fbb%26oe%3D56151ABD&size=960%2C1191&fbid=798403623524159)
+[![dlr-limehouse](https://farm1.staticflickr.com/559/19527832324_4ca6374a4c_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
   > she looked in silence towards the window.
 >
