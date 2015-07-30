@@ -2,11 +2,11 @@
 
 is the repository for text that will be combined with img and graphics from ecceHomo folders (starting with 2015 edition) more info later. if you just want to see the graphics hit the pic below.
 
-[![__deus_ex_machina__](https://flic.kr/p/wH83SK)](https://www.facebook.com/media/set/?set=a.10206337884658931&type=1&l=5d9ee9b470)
+[![__deus_ex_machina__](https://farm1.staticflickr.com/430/20156054831_a02e6b872a_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
 in any case and despite the seductive graphic above which was uncerermoniously stolen this project features no porn. not at this stage but i'm open for [propositions with interesting technical aspects](http://codepen.io/rafszul/#hireme). because in the end this story is about technologies.
 
-[![find me in my studio pic](https://flic.kr/p/wFVaD1)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
+[![find me in my studio pic](https://farm1.staticflickr.com/258/20142419742_dd4c797887_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
 > have you got any log files?
 >
@@ -20,7 +20,7 @@ in any case and despite the seductive graphic above which was uncerermoniously s
 >
 > sure.
 
-[![just kidding pic](https://flic.kr/p/wq1DjJ)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
+[![just kidding pic](https://farm1.staticflickr.com/296/19962424498_4f4f4b6bc7_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
 [![](https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/10561814_798403623524159_1606611110860102483_n.jpg?oh=018da597bacd59ada1192df1a7193fbb&oe=56151ABD)](https://www.facebook.com/2muchcoffeee/photos/pb.614364481928075.-2207520000.1437690978./798403623524159/?type=3&src=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fhphotos-xfp1%2Ft31.0-8%2F10499581_798403623524159_1606611110860102483_o.jpg&smallsrc=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fhphotos-xat1%2Fv%2Ft1.0-9%2F10561814_798403623524159_1606611110860102483_n.jpg%3Foh%3D018da597bacd59ada1192df1a7193fbb%26oe%3D56151ABD&size=960%2C1191&fbid=798403623524159)
 
@@ -104,4 +104,4 @@ in any case and despite the seductive graphic above which was uncerermoniously s
 >
 > out of the Siberian sky
 
-[![han](https://flic.kr/p/wH842H)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
+[![han](https://farm1.staticflickr.com/554/20156055351_37f684519b_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
