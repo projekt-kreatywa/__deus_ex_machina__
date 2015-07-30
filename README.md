@@ -2,9 +2,9 @@
 
 is the repository for text that will be combined with img and graphics from ecceHomo folders (starting with 2015 edition) more info later. if you just want to see the graphics hit the pic below.
 
-[![__deus_ex_machina__](https://farm1.staticflickr.com/430/20156054831_a02e6b872a_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
+[![__deus_ex_machina__](https://farm1.staticflickr.com/430/20156054831_a02e6b872a_h.jpg)](https://flic.kr/s/aHskdH93dg)
 
-in any case and despite the seductive graphic above which was uncerermoniously stolen this project features no porn. not at this stage but i'm open for [propositions with interesting technical aspects](http://codepen.io/rafszul/#hireme). because in the end this story is about technologies.
+in any case and despite the seductive graphic above which was uncerermoniously stolen this project features no porn. not at this stage but some might be open for [propositions with interesting technical aspects](http://codepen.io/rafszul/#hireme). in any case this story is about technologies.
 
 [![find me in my studio pic](https://farm1.staticflickr.com/258/20142419742_dd4c797887_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
