@@ -1,14 +1,12 @@
 # __deus_ex_machina__
 
-_deus_ex_machina_
+[![](https://d23f6h5jpj26xu.cloudfront.net/ejiu8w2z3xjw_small.png)](http://codepen.io/collection/DaMqWv/)
 
-[![__deus_ex_machina__](https://d23f6h5jpj26xu.cloudfront.net/ejiu8w2z3xjw_small.png)](http://codepen.io/collection/DaMqWv/)
-
-[github](https://github.com/projekt-kreatywa/__deus_ex_machina__) - [gist](https://gist.github.com/rafszul/b191abab05676010dc0e/) - [codepen](http://codepen.io/collection/DaMqWv/) - [flickr]() - [tumblr]() - [svbtl](http://rafszul.svbtle.com/)
+[github](https://github.com/projekt-kreatywa/__deus_ex_machina__) - [gist](https://gist.github.com/rafszul/b191abab05676010dc0e/) - [codepen](http://codepen.io/collection/DaMqWv/) - [flickr](https://www.flickr.com/photos/44273036@N06/sets/72157654242583583/) - [tumblr]() - [svbtl](http://rafszul.svbtle.com/)
 
 [![__deus_ex_machina__](https://d23f6h5jpj26xu.cloudfront.net/nfuvt365ylx8ca_small.png)](https://flic.kr/s/aHskdH93dg)
 
-in any case and despite the seductive graphic above which was uncerermoniously stolen this project features no porn. not at this stage but some might be open for [propositions with interesting technical aspects](http://codepen.io/rafszul/#hireme). in any case this story is about technologies.
+in any case and despite the seductive graphic above this project features no porn. not at this stage but some might be open for [propositions with interesting technical aspects](http://codepen.io/rafszul/#hireme). in any case this story is about technologies.
 
 [![find me in my studio pic](https://farm1.staticflickr.com/258/20142419742_dd4c797887_h.jpg)](https://github.com/projekt-kreatywa/__deus_ex_machina__)
 
