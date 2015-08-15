@@ -1,8 +1,12 @@
 # __deus_ex_machina__
 
-is the repository for text that will be combined with img and graphics from ecceHomo folders (starting with 2015 edition) more info later. if you just want to see the graphics hit the pic below.
+_deus_ex_machina_
 
-[![__deus_ex_machina__](https://farm1.staticflickr.com/430/20156054831_a02e6b872a_h.jpg)](https://flic.kr/s/aHskdH93dg)
+[![__deus_ex_machina__](https://d23f6h5jpj26xu.cloudfront.net/ejiu8w2z3xjw_small.png)](http://codepen.io/collection/DaMqWv/)
+
+[github](https://github.com/projekt-kreatywa/__deus_ex_machina__) - [gist](https://gist.github.com/rafszul/b191abab05676010dc0e/) - [codepen](http://codepen.io/collection/DaMqWv/) - [flickr]() - [tumblr]() - [svbtl](http://rafszul.svbtle.com/)
+
+[![__deus_ex_machina__](https://d23f6h5jpj26xu.cloudfront.net/nfuvt365ylx8ca_small.png)](https://flic.kr/s/aHskdH93dg)
 
 in any case and despite the seductive graphic above which was uncerermoniously stolen this project features no porn. not at this stage but some might be open for [propositions with interesting technical aspects](http://codepen.io/rafszul/#hireme). in any case this story is about technologies.
 
