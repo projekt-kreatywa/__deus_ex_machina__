@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddle",
+				"paddle1"
+			],
+			[
+				"rec",
+				"rect3	SVG - BASIC SHAPES: rectangle × 3"
+			],
+			[
+				"s",
+				"symbol	SVG - Symbol: symbol"
+			],
+			[
+				"d",
+				"defsuse	SVG - DRY: defs + use"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: HTML Boilerplate with a Canvas Tag"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/git-hub/_projekt-kreatywa/__deus_ex_machina__/svg"
+	],
+	"file_history":
+	[
+		"/Users/rafszul/Desktop/Dropbox/Apps/ImaengineSVG/IMNGN01522.svg",
+		"/Users/rafszul/Desktop/Dropbox/Apps/ImaengineSVG/IMNGN01593.svg",
+		"/Users/rafszul/Desktop/Dropbox/Apps/ImaengineSVG/IMNGN01428.svg",
+		"/Users/rafszul/Desktop/Dropbox/Apps/Drafts/__communication/Lior-Jane-Smith-002.md",
+		"/Users/rafszul/Desktop/Dropbox/_sketch/_exported/_svg/rafszul - cv - quick.svg",
+		"/Users/rafszul/Desktop/Dropbox/Apps/Drafts/METRO/unhealthy_discussions_000.json",
+		"/Users/rafszul/Desktop/Dropbox/Apps/Drafts/__deus-ex-machina__/2015-07-23-10-43-22 pm.md",
+		"/Users/rafszul/Desktop/Dropbox/Apps/Drafts/__deus-ex-machina__/2015-07-30-05-57-16 pm.md",
+		"/Users/rafszul/Desktop/Dropbox/_sketch/rafszul - cv - quick.svg",
+		"/Users/rafszul/Desktop/Dropbox/Apps/Drafts/METRO/METRO_template.json",
+		"/Users/rafszul/Desktop/Dropbox/Apps/Drafts/METRO/METRO_Wednesday_July_15_2015.json",
+		"/Users/rafszul/___code___/_github/_impertinent-creations/imp-crea/app/index.html",
+		"/Users/rafszul/___code___/_github/_impertinent-creations/studio/img/data/readme.json",
+		"/Users/rafszul/___code___/_github/_impertinent-creations/studio-on-studio/_rob/data/README.md",
+		"/Users/rafszul/___code___/_github/_impertinent-creations/studio-on-studio/_rob/txt/README.md",
+		"/Users/rafszul/___code___/_github/_impertinent-creations/studio-signoff/stamplay.json",
+		"/Users/rafszul/__rob__/__img__/_img_the-life-nfear-is-not-worth-living-/vivir con miedo, es vivir a medias.md",
+		"/Users/rafszul/___code___/my-grunt-template/scss/main.scss",
+		"/Users/rafszul/___code___/my-grunt-template/package.json",
+		"/Users/rafszul/___code___/my-grunt-template/index.html",
+		"/Users/rafszul/___code___/my-grunt-template/img/symbol/svg/sprite.symbol-edited.svg",
+		"/Users/rafszul/___code___/my-grunt-template/img/stack/svg/sprite.stack.svg",
+		"/Users/rafszul/___code___/my-grunt-template/img/filters.svg",
+		"/Users/rafszul/__rob__/__img__/_img-game-maker/_proto-studio/_img/layout-fe/output-cleaner/vectorpaint(9).svg",
+		"/Users/rafszul/__rob__/__img__/_img-game-maker/_proto-studio/_img/layout/black-outline.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/_howl/shape-shifter-000.svg",
+		"/git-hub/_rafszul/possessed-007.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/_metamorph/possessed-frames.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/_metamorph/possessed(1).svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/_metamorph/possessed_cleaned.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/_metamorph/possessed.svg",
+		"/Users/rafszul/__rob__/__possessed-rob/_img-rob/title-scr-anim-001.svg",
+		"/Users/rafszul/__rob__/__img__/_img-game-maker/_studio/path.svg",
+		"/Users/rafszul/Google Drive/_code/_sketch/_game-maker/untitled folder/pages-defs-002.sketch-ClickDummy/Artboard.html",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/possessed-paths-006-02-c.svg",
+		"/Users/rafszul/__rob__/__middle-template/rafszul.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/possessed-paths-006-02-b.svg",
+		"/Users/rafszul/Downloads/vectorpaint(1).svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/possessed-paths-002.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/possessed-paths-003.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/possessed-002/possessed-paths.svg",
+		"/git-hub/_impertinent-creations/imp-crea-defs.svg",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/rafszul/__rob__/__img__/Rectangle 1 + KlBpu7O - Imgur + Shape.svg",
+		"/Users/rafszul/__rob__/__code-lib__/SVG-Morpheus-master/untitled.sublime-project",
+		"/git-hub/_rafszul/possessed/shadows-svg/organised/Artboard.svg",
+		"/git-hub/_rafszul/possessed/shadows-svg/organised/shadows-001_0000_shadows_cleaned.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/imp-crea-symb.svg",
+		"/Users/rafszul/Google Drive/_code/_sketch/imp-crea-003-02.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/imp-crea-symb-rob.svg",
+		"/Users/rafszul/Google Drive/_code/_sketch/impertinent-creations-layers-002.svg",
+		"/git-hub/_rafszul/possessed-006-poster.svg",
+		"/git-hub/_rafszul/possessed-006.svg",
+		"/git-hub/_rafszul/possessed-defs.svg",
+		"/git-hub/_rafszul/possessed-004-poster.svg",
+		"/Users/rafszul/Downloads/eti.txt",
+		"/Users/rafszul/Downloads/vectorpaint (3).svg",
+		"/Users/rafszul/Downloads/vectorpaint (1).svg",
+		"/Users/rafszul/Downloads/vectorpaint.svg",
+		"/Users/rafszul/Downloads/plunk-8D7EVvGgz4NL8dDgMjkx/index.html",
+		"/Users/rafszul/__rob__/the-unknown-box/credits.md",
+		"/Users/rafszul/__rob__/the-unknown-box/README.md",
+		"/git-hub/_rafszul/possessed.svg",
+		"/Users/rafszul/Downloads/seer.svg",
+		"/git-hub/_rafszul/possessed-with-fire.svg",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/pieces-not/whole-005-ink-opt-g12-animated-02.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/pieces-not/whole-005-ink-opt-g12-animated.svg",
+		"/Users/rafszul/Downloads/whole-005-ink-opt-g12.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/pieces-not/rozsypka.svg",
+		"/Users/rafszul/Downloads/animation.svg",
+		"/Users/rafszul/Downloads/possessed-with-fire-symbol.svg",
+		"/Users/rafszul/__rob__/__img__/kali-marker-test.svg",
+		"/git-hub/_rafszul/possessed/possessed-with-fire.svg",
+		"/Users/rafszul/Downloads/Shape(1).svg",
+		"/Users/rafszul/__rob__/__img__/_jasonthielke-/traced/Shape.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/whole-008.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/whole-006-ink-combined-paths.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/whole-007.svg",
+		"/Users/rafszul/Downloads/whole-006.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/whole-006.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/whole-004.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/pieces-002/body.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/tail.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/back2.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/back1.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/front2.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/front1.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/head.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/burn-007-02-rgB.svg",
+		"/Users/rafszul/__rob__/__img__/_svg/_rafszul_github_io/head2.svg",
+		"/Users/rafszul/Google Drive/_code/_sketch/Artboard.svg",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/rafszul/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rafszul/__rob__/__img__/niunia.svg",
+		"/Users/rafszul/Documents/bleach-v16-62profile.json",
+		"/Users/rafszul/Documents/__exp__/tigt.svg"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Skyble",
+			"M\\u0101d\\u0101r\\u012bpur",
+			"<defs>",
+			"<title>characters-col-outline</title>",
+			"\n   14          <title>characters-col-outline</title>\n   15          <defs>",
+			"<title>characters-col-outline</title><defs>",
+			"<filter",
+			"<path",
+			"page01",
+			"\" id=",
+			"<path d=\"",
+			"\" id=\"",
+			"\" id=\"\n",
+			"\" id=\"",
+			"<path d=\"",
+			" sketch:type=\"MSShapeGroup\"",
+			"id",
+			"sketch:type=\"MSShapeGroup\"",
+			"stroke-opacity=\"0\"",
+			"fill-opacity=\"0\"",
+			"stroke=\"#FFFFFF\"",
+			"fill=\"#FFFFFF\"",
+			"transform=\"translate(2.000000, 23.000000)\"",
+			"transform=\"translate",
+			"transform=\"translate(2.000000, 22.000000)\"",
+			"transform=\"translate(2.000000, 20.000000)\"",
+			"transform=\"translate(2.000000, 4.000000)\"",
+			"transform=\"translate(2.000000, 1.000000)\"",
+			"transform=\"translate(1.000000, 0.000000)\"",
+			"transform=\"translate(2.000000, 0.000000)\"",
+			"t",
+			"sketch:type=\"MSShapeGroup\"",
+			"id=\"Shape\"",
+			"stroke-opacity=\"0\"",
+			"opacity=\"0\"",
+			"stroke-opacity=\"0\"",
+			"\"/>",
+			"<path d=\"",
+			"</svg>",
+			"<svg",
+			"m",
+			";",
+			"m",
+			"z;",
+			"m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"short description",
+			"title goes here",
+			"",
+			"<symbol",
+			";\n\n\n",
+			"\n\n",
+			"\n",
+			"",
+			";",
+			"",
+			"stroke=\"none\"",
+			"fill=\"none\"",
+			"",
+			"stroke-opacity=\"1\"",
+			"opacity=\"1\"",
+			"</symbol>",
+			"<symbol",
+			"<path d=\"m",
+			"\"/>",
+			"<path d=\"m",
+			"z\"/>",
+			"<path d=\"m"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"project": "__deus_ex_machina__-svg.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 413.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
