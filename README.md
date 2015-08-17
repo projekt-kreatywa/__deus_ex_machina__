@@ -1,8 +1,6 @@
 # __deus_ex_machina__
 
-for preview of some code follow the graphic below
-
-[![](https://d23f6h5jpj26xu.cloudfront.net/ejiu8w2z3xjw_small.png)](http://codepen.io/collection/DaMqWv/)
+for preview of some code see the [collection on codepen](codepen.io/collection/DaMqWv)
 
 for the stories follow the graphic below
 
