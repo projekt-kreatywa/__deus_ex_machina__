@@ -4,6 +4,8 @@ I could almost feel it's gentle throbbing
 
 I imagined it's the script working tirelessly corrupting all files
 
+[![IMG_0718.PNG](https://d23f6h5jpj26xu.cloudfront.net/7fzhmvbxmu3uw_small.png)](http://rafszul.svbtle.com/black-ice)
+
 I knew she was very much alive
 
 and I knew all the possible paths she could take
@@ -32,9 +34,6 @@ falling
 
 burned
 
-out of the Siberian sky
+out of the siberian sky
 
- 
-
-
-
+[![IMG_1245.PNG](https://d23f6h5jpj26xu.cloudfront.net/lgw3wqke8aoug_small.png)](http://rafszul.svbtle.com/engaged)

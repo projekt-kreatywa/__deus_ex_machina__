@@ -4,6 +4,8 @@ the storm seems just moments away but it might as well not come at all.
 
 ... and here comes the rain.
 
+[![IMG_0329.PNG](https://d23f6h5jpj26xu.cloudfront.net/hvoay7n7efqla_small.png)](http://rafszul.svbtle.com/black-ice)
+
 back inside.
 
 the cat sleeping on an empty bed.
@@ -47,6 +49,8 @@ the closeness of another human body
 is it still me?
 
 always defiant, always on the other side, embracing the virtual representations of our physical worlds and now hungry for ... touch?
+
+[![IMG_1113.PNG](https://d23f6h5jpj26xu.cloudfront.net/tj7wawtttvrkg_small.png)](http://rafszul.svbtle.com/black-ice)
 
 i will have to start looking for someone like you.
 
